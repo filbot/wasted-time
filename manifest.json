@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "Wasted Time",
+  "description": "This extension shows how much time has been wasted on certain sites",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html"
+  },
+  "permissions": [
+    "activeTab",
+    "https://ajax.googleapis.com/"
+  ]
+}
