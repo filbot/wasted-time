@@ -1,0 +1,22 @@
+body {
+    font-size: 4rem;
+    text-align: center;
+    font-family: helvetica;
+}
+
+p {
+    color: #999;
+}
+
+.time-designation {
+    font-size: 40px;
+    color: #333;
+}
+
+h1 {
+    color: #333;
+}
+
+.domain {
+    color: #C7DDF5;
+}
